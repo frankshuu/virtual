@@ -5,7 +5,6 @@ export PATH
 #===========================================================#
 # One Click Install ShadowsocksR Server for CentOS & Debian #
 # Github: https://github.com/frankshuu/virtual              #
-# Thanks: https://github.com/uxh/shadowsocks_bash           #
 # Thanks: https://github.com/teddysun/shadowsocks_install   #
 #===========================================================#
 
@@ -63,8 +62,7 @@ start_info(){
     echo "#===========================================================#"
     echo "# One Click Install ShadowsocksR Server for CentOS & Debian #"
     echo "# Github: https://github.com/frankshuu/virtual              #"
-    echo "# Thanks: https://github.com/uxh/shadowsocks_bash           #"
-	echo "# Thanks: https://github.com/teddysun/shadowsocks_install   #"
+    echo "# Thanks: https://github.com/teddysun/shadowsocks_install   #"
     echo "#===========================================================#"
 }
 
